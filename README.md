@@ -38,7 +38,7 @@ A complete **3-tier web application** deployed on **AWS** — Web, App, and Data
 - Used **ALB + ASG** for scalability & fault tolerance.
 - Integrated **CloudWatch + SNS** for monitoring & alerts.
 
-**Tech Stack:** AWS EC2, ALB, ASG, RDS, VPC, IAM, CloudWatch, S3, Terraform
+**Tech Stack:** AWS EC2, ALB, ASG, RDS, VPC, IAM, CloudWatch, S3
 
 ---
 
