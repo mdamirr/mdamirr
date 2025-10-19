@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Amir
 
-🚀 **DevOps & Cloud Enthusiast | Fresher preparing for DevOps/Cloud Engineer roles**
+🚀 **DevOps & Cloud Enthusiast | Preparing for DevOps & Cloud Engineer Roles**
 
-I’m passionate about automating, building, and scaling cloud-native applications.  
+I’m passionate about automating, building, and scaling **cloud-native applications**.  
 Currently exploring **DevOps practices, Cloud Infrastructure, and CI/CD pipelines** while working on hands-on projects.
 
 ---
@@ -30,55 +30,57 @@ Currently exploring **DevOps practices, Cloud Infrastructure, and CI/CD pipeline
 ## 📂 Projects
 
 ### 🚀 [AWS 3-Tier Web Architecture Project](https://github.com/mdamirr/Aws-project)
-A complete **3-tier web application** deployed on **AWS** — Web, App, and Database layers separated inside a custom VPC.
+A **3-tier web application** deployed on **AWS**, featuring isolated **Web**, **App**, and **Database** layers within a secure **VPC**.
 
 **Key Highlights:**
-- Built a **VPC** with public & private subnets.
-- Configured **Nginx + React (Web)**, **Node.js (App)**, and **RDS MySQL (DB)**.
-- Used **ALB + ASG** for scalability & fault tolerance.
-- Integrated **CloudWatch + SNS** for monitoring & alerts.
+- Designed **VPC** with public/private subnets for isolation.
+- Deployed **Nginx + React (Web)**, **Node.js (App)**, **Aurora MySQL (DB)**.
+- Configured **ALB + ASG** for scalability and high availability.
+- Implemented **IAM, S3, CloudWatch, CloudTrail, and SNS** for monitoring and security.
 
-**Tech Stack:** AWS EC2, ALB, ASG, RDS, VPC, IAM, CloudWatch, S3
+**Tech Stack:** AWS EC2 | ALB | ASG | RDS (Aurora MySQL) | VPC | IAM | S3 | CloudWatch | Linux
 
 ---
 
-### ☁️ [Wanderlust – Three-Tier Web Application (DevOps Practice)](https://github.com/mdamirr/Wanderlust-Mega-Project)
-A **production-style 3-tier application** showcasing complete **DevOps workflow** — CI/CD, containerization, Kubernetes & observability.
+### ☁️ [Wanderlust – End-to-End CI/CD on AWS EKS](https://github.com/mdamirr/Wanderlust-Mega-Project)
+A **DevOps practice project** implementing a production-style **MERN app** with a complete **CI/CD and GitOps workflow**.
 
 **Key Highlights:**
-- Frontend: React | Backend: Node.js | DB: MongoDB + Redis  
-- CI/CD via **GitHub Actions (CI)** and **Jenkins (CD)**  
-- **Kubernetes + Argo CD** for deployment automation  
-- Integrated **SonarQube**, **Trivy**, and **Prometheus + Grafana** for quality and monitoring  
+- Built **3-tier MERN stack** (React, Node.js, MongoDB, Redis).  
+- Automated **CI/CD** using **GitHub Actions (CI)** and **Jenkins (CD)**.  
+- Deployed on **AWS EKS** via **Docker, Kubernetes, and ArgoCD**.  
+- Integrated **SonarQube**, **Trivy**, and **Prometheus + Grafana** for security and monitoring.  
+- Used **Terraform** and **Shell scripting** for infrastructure automation.
 
-**Tech Stack:** Docker, Kubernetes, Argo CD, Jenkins, SonarQube, Terraform, Prometheus, Grafana
+**Tech Stack:** AWS EKS | Jenkins | Docker | ArgoCD | Terraform | SonarQube | Trivy | Prometheus | Grafana
 
 ---
 
 ### 🎬 [Prime Clone – Cloud-Native Deployment (ECR/EKS, Terraform, Jenkins)](https://github.com/mdamirr/prime-clone-devops-eks)
-A **React-based Amazon Prime UI clone** deployed on AWS with full **CI/CD** automation and **infrastructure as code**.
+A **React-based Amazon Prime Clone** deployed on **AWS EKS** using a complete **CI/CD pipeline** and **Infrastructure as Code**.
 
 **Key Highlights:**
-- Containerized React app → pushed to **ECR** → deployed to **EKS**
-- Automated builds & scans using **Jenkins + SonarQube**
-- Terraform for **EKS, VPC, and networking setup**
+- Containerized app → **Docker → ECR → EKS**.  
+- Automated build, scan & deployment via **Jenkins + SonarQube + Trivy**.  
+- Provisioned infrastructure using **Terraform (VPC, EKS, IAM)**.  
+- Managed deployment with **ArgoCD**, monitored using **Prometheus & Grafana**.
 
-**Tech Stack:** React, Docker, Jenkins, SonarQube, AWS ECR, AWS EKS, Terraform
+**Tech Stack:** React | Docker | Jenkins | SonarQube | Trivy | Terraform | ArgoCD | AWS ECR | AWS EKS | Prometheus | Grafana
 
 ---
 
 ## 🌱 Currently Learning
 - **AWS DevOps Tools:** CodePipeline, CodeBuild, CodeDeploy, CloudFormation  
-- **Kubernetes Advanced Concepts:** Ingress, StatefulSets, Helm Chart templating  
+- **Kubernetes Advanced Concepts:** Ingress, StatefulSets, Helm templating  
 - **Security & Compliance:** IAM policies, Secrets Manager, AWS Config  
-- **Monitoring & Logging:** Grafana, Prometheus  
+- **Monitoring & Logging:** Prometheus, Grafana
 
 ---
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/mdamirr/)  
 - [GitHub](https://github.com/mdamirr)  
-- 📧 Email: **aamirmalikktd@gmail.com**
+- 📧 Email: **aamirmaikktd@gmail.com**
 
 ---
 
