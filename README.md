@@ -79,7 +79,6 @@ A **React-based Amazon Prime Clone** deployed on **AWS EKS** using a complete **
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/mdamirr/)  
-- [GitHub](https://github.com/mdamirr)  
 - 📧 Email: **aamirmaikktd@gmail.com**
 
 ---
