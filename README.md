@@ -43,17 +43,20 @@ A **3-tier web application** deployed on **AWS**, featuring isolated **Web**, **
 ---
 
 ### ☁️ [Wanderlust – End-to-End CI/CD on AWS EKS](https://github.com/mdamirr/Wanderlust-Mega-Project)
-An **end-to-end DevSecOps project** deploying a full-stack **MERN app** through an automated **CI/CD pipeline** on **AWS EKS (Kubernetes)**.
+
+An **end-to-end DevSecOps project** deploying a full-stack **MERN application** through an automated **CI/CD pipeline** on **AWS EKS (Kubernetes)**.
 
 **Key Highlights:**
 - Automated build and deployment with **Jenkins (CI)** and **ArgoCD (CD)**.  
-- Implemented **SonarQube, OWASP, and Trivy** for code quality and vulnerability scanning.  
-- Configured **Jenkins Master–Slave architecture** for distributed builds.  
-- Automated **Docker image build and push** to **AWS ECR**, deployed via **Kubernetes on EKS**.  
-- Set up **Prometheus & Grafana** (via Helm) for real-time monitoring and alerts.  
-- Designed a **secure, scalable DevSecOps workflow** from commit to deployment.
+- Implemented **SonarQube**, **OWASP**, and **Trivy** for code quality and vulnerability scanning.  
+- Configured a **single Jenkins Master server** to handle build, test, and deployment stages.  
+- Automated **Docker image build and push** to **Docker Hub**, deployed via **Kubernetes on AWS EKS**.  
+- Set up **Prometheus & Grafana** (via Helm) for real-time monitoring, metrics, and alerts.  
+- Designed a **secure, scalable DevSecOps workflow** covering code, container, and cluster-level security.
 
-**Tech Stack:** AWS EKS | Jenkins | ArgoCD | Docker | SonarQube | Trivy | Redis | Helm | Prometheus | Grafana | GitHub | OWASP
+**Tech Stack:**  
+AWS EKS | Jenkins | ArgoCD | Docker | Docker Hub | SonarQube | Trivy | Redis | Helm | Prometheus | Grafana | GitHub | OWASP
+
 
 ---
 
